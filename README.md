@@ -1,7 +1,3 @@
-Here's a sample README content for your ByteBazar GitHub repository:
-
----
-
 # ByteBazar - E-Commerce Platform for IT Services
 
 **ByteBazar** is a comprehensive e-commerce platform designed to offer IT products like laptops, desktops, CCTV systems, and other IT-related services for rent, refurbished, or purchase as new items. The platform aims to provide users with flexible options for acquiring technology, whether for short-term needs or long-term use.
